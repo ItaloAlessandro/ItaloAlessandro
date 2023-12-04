@@ -16,5 +16,5 @@ Additional skills: ...<br>
 Contact: <br>
 
 Email: italo.silva@sptech.school<br>
-LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/italo-alessandro-da-silva-391427239/)<br>
-GitHub: [link to your GitHub profile](https://github.com/ItaloAlessandro)<br>
+LinkedIn: [(https://www.linkedin.com/in/italo-alessandro-da-silva-391427239/)]<br>
+GitHub: [(https://github.com/ItaloAlessandro)]<br>
