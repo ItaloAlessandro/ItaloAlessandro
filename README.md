@@ -1,20 +1,20 @@
 Italo Alessandro
 
-Studying: Analysis and Systems Development
-FullStack Developer
-Focus on back-end development
-Hello! I'm Italo Alessandro, a passionate FullStack developer currently studying Analysis and Systems Development. I have a strong focus on back-end development and enjoy tackling complex programming challenges.
+Studying: Analysis and Systems Development<br>
+FullStack Developer<br>
+Focus on back-end development<br>
+Hello! I'm Italo Alessandro, a passionate FullStack developer currently studying Analysis and Systems Development. I have a strong focus on back-end development and enjoy tackling complex programming challenges.<br><br>
 
-Projects:
+Projects:<br>
 
-...
+...<br>
 
-Back-end development: Node.js
-Front-end development: HTML, CSS, JavaScript.
-Database management: MySQL.
-Additional skills: ...
-Contact: 
+Back-end development: Node.js<br>
+Front-end development: HTML, CSS, JavaScript.<br>
+Database management: MySQL.<br>
+Additional skills: ...<br>
+Contact: <br>
 
-Email: italo.silva@sptech.school
-LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/italo-alessandro-da-silva-391427239/)
-GitHub: [link to your GitHub profile](https://github.com/ItaloAlessandro)
+Email: italo.silva@sptech.school<br>
+LinkedIn: [link to your LinkedIn profile](https://www.linkedin.com/in/italo-alessandro-da-silva-391427239/)<br>
+GitHub: [link to your GitHub profile](https://github.com/ItaloAlessandro)<br>
