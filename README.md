@@ -9,8 +9,8 @@ Projects:<br>
 
 ...<br>
 
-Back-end development: Node.js<br>
-Front-end development: HTML, CSS, JavaScript.<br>
+Back-end development: Node.js, PHP, Laravel<br>
+Front-end development: HTML, CSS, JavaScript, PHP, bootstrap.<br>
 Database management: MySQL.<br>
 Additional skills: ...<br>
 Contact: <br>
